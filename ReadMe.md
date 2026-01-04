@@ -1,3 +1,8 @@
+-=(PET2001_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p.
+
+___
 # PET2001 for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 ### This is the port of [pet2001fpga](https://github.com/skibo/Pet2001_Nexys3).
@@ -22,3 +27,4 @@ This is normal behaviour of the 8250 drive.
 
 ## Download precompiled binaries
 Go to [releases](https://github.com/MiSTer-devel/PET2001_MiSTer/tree/master/releases) folder.
+
